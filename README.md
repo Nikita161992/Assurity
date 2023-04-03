@@ -2,8 +2,8 @@
 A brief description of what this project does.
 
 ## Installation
-Go to gitlab https://gitlab.com/assurity/sandboxTest and run the following command in your system
-git clone https://gitlab.com/assurity/sandboxTest.git
+Go to github https://github.com/Nikita161992/Assurity and run the following command in your system
+git clone https://github.com/Nikita161992/Assurity.git
 
 ## Tech Stack
 Java
